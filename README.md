@@ -1,6 +1,6 @@
-# A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors
+# A La Carte Embedding
 
-![](https://yag-ays.github.io/img/alacarte_02.png)
+<img src="https://yag-ays.github.io/img/alacarte_02.png">
 
 ## Description
 - [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://arxiv.org/abs/1805.05388)の実装
