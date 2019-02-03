@@ -10,13 +10,6 @@
 ## Requirements
 
 ## Usage
-```
-alc = ALaCarteEmbedding(word2vec=w2v,
-                        tokenize=tokenize,
-                        min_count=10,
-                        ngram=[1, 2])
-alc.build(documents)
-```
 
 ## References
 - Yuki Okudaさんの[out of box](https://yag-ays.github.io/project/alacarte/)
