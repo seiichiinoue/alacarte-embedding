@@ -12,4 +12,4 @@
 ## Uses
 
 ## References
-- [out of box](https://yag-ays.github.io/project/alacarte/)
+- Yuki Okudaさんの[out of box](https://yag-ays.github.io/project/alacarte/)
